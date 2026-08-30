@@ -1,0 +1,14 @@
+build
+obj
+*.pidb
+AssemblyInfo.cs
+AssemblyInfoToolbar.cs
+Outcrop.version
+*.dll
+*.pdb
+
+
+KSP/
+.vs/
+
+src/Outcrop/bin/
