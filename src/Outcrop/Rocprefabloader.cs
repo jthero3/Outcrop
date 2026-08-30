@@ -18,6 +18,7 @@ namespace Outcrop
     ///       colliderConvex    = false
     ///       layer             = Local Scenery
     ///   }
+    /// </summary>
     [KSPAddon(KSPAddon.Startup.Instantly, true)]
     public class ROCPrefabLoader : MonoBehaviour
     {
